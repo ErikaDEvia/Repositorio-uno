@@ -14,6 +14,10 @@ En el archivo cajas2.css utilizamos diferentes propiedades lógicas como left, r
 
 Html se define como (Hypertext Markup Languaje) Lenguajes de Marcas de Hipertexto.    
 
+Hipertexto hace referencia a los enlaces que conectan páginas web entre sí, ya sea dentro de un único sitio web o entre sitios web.
+
+
+
 
 
 
