@@ -1,0 +1,57 @@
+body{
+
+ div{  
+    height:100px;
+}
+.caja1{
+    width:250px;
+    background: url(../img/Logos.jpg) no-repeat;
+    border:8px dotted; color:#FF4500;
+    margin:20px 10px;
+}
+#caja2{
+    width:100%;
+    background:#0000CD;
+    border:6px solid; border-radius:5cap; color:#00FFFF;
+    padding:20px;
+}
+.caja3{
+    width:150px;
+    background: #FFA500;
+    border: 6px solid; color: #FF0000;
+    position:absolute;
+    top: 315px;
+    left: 550px;
+}
+.caja4{
+    width: 150px;
+    background: #FFC0CB;
+    border: 5px solid; color: #FF1493;
+    border-top-right-radius: 5cap;
+    border-bottom-right-radius: 5cap;
+    position:absolute; 
+    top:450px;
+    right:0px;
+}
+.caja5{
+    width:300px;
+    background: #00FFFF;
+    border:12px solid; color: #0000CD;
+    border-style: double;
+    position:absolute;
+    top:600px;
+    padding:10px;
+}
+.caja6{
+    width:150px;
+    background: #663399;
+    border: 10px solid; color: #FF1493;
+    border-top-left-radius: 5cap;
+    border-bottom-left-radius: 5cap;
+    position:absolute;
+    top:800px;
+    padding:10px;
+    right:0;
+}
+}
+
