@@ -16,6 +16,8 @@ Html se define como (Hypertext Markup Languaje) Lenguajes de Marcas de Hipertext
 
 Hipertexto hace referencia a los enlaces que conectan páginas web entre sí, ya sea dentro de un único sitio web o entre sitios web.
 
+La imagen "Logos.jpg" muestra los diferentes lenguajes de programación.
+
 
 
 
