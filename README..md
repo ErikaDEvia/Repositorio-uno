@@ -18,7 +18,7 @@ Hipertexto hace referencia a los enlaces que conectan páginas web entre sí, ya
 
 La imagen "Logos.jpg" muestra los diferentes lenguajes de programación.
 
-
+Encontramos lenguajes de programación como JavaScrip; Html, C#, C++, entre otros.
 
 
 
