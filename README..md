@@ -12,6 +12,8 @@ En el archivo cajas2.html utilizamos diferentes tipos de elementos y atributos.
 
 En el archivo cajas2.css utilizamos diferentes propiedades lógicas como left, right, top, bottom, entre otros.
 
+Html se define como (Hypertext Markup Languaje) Lenguajes de Marcas de Hipertexto.    
+
 
 
 
